@@ -1,0 +1,27 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMoyaIFPR/TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielMoyaIFPR/TypeScript/issues"
+  },
+  "homepage": "https://github.com/GabrielMoyaIFPR/TypeScript#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14",
+    "typescript": "^4.6.4"
+  }
+}
